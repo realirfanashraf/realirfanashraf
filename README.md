@@ -6,29 +6,29 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer specializing
 
 - 💻 Full-Stack Developer with a focus on the MERN (MongoDB, Express, React, Node.js) stack.
 - 🌍 Based in Kochi, India.
-- 🎓 Bachelor's degree in [Your Degree] from [Your University].
-- 🏆 1+ years of professional experience in web development.
+- 🎓 Bachelor's degree in Bsc Information Technology from Mahatma Gandhi University.
+- 🏆 Over a  year of experience in web development.
 - 🌟 Always eager to learn and adapt to new challenges.
 
 ## 🛠️ Technologies & Tools
 
 ### Frontend
-- **React.js**: Crafting dynamic and responsive user interfaces.
-- **HTML5 & CSS3**: Building semantic and accessible web pages.
-- **JavaScript (ES6+)**: Writing clean and efficient code.
-- **Bootstrap**: Designing responsive layouts.
+- **React.js**: <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React" width="40" height="40"/>
+- **HTML5 & CSS3**: <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS3" width="40" height="40"/>
+- **JavaScript (ES6+)**: <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="40" height="40"/>
+- **Bootstrap**: <img src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="40" height="40"/>
 
 ### Backend
-- **Node.js**: Developing scalable server-side applications.
-- **Express.js**: Creating robust APIs and web services.
-- **MongoDB**: Managing data with a flexible NoSQL database.
-- **SQL**: Working with relational databases.
+- **Node.js**: <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" width="40" height="40"/>
+- **Express.js**: <img src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" alt="Express.js" width="40" height="40"/>
+- **MongoDB**: <img src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" alt="MongoDB" width="40" height="40"/>
+- **SQL**: <img src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" alt="SQL" width="40" height="40"/>
 
 ### Tools & Platforms
-- **Git & GitHub**: Version control and collaboration.
-- **Visual Studio Code**: My go-to code editor.
-- **Postman**: API testing and development.
-- **Docker**: Containerizing applications for consistency across environments.
+- **Git & GitHub**: <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" alt="GitHub" width="40" height="40"/>
+- **Visual Studio Code**: <img src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="40" height="40"/>
+- **Postman**: <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+- **Docker**: <img src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="Docker" width="40" height="40"/>
 
 ## 🌱 What I'm Learning
 - **Advanced React Patterns**: Hooks, Context API, and performance optimization.
