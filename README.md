@@ -12,8 +12,9 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer specializing
 
 ## 🛠️ Technologies & Tools
  <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS3" width="40" height="40"/>
- https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png
+ <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML5" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS3" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" alt="HTML5" width="40" height="40"/>
 - **JavaScript (ES6+)**: <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="40" height="40"/>
 - **Bootstrap**: <img src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="40" height="40"/>
 
