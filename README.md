@@ -11,24 +11,21 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer specializing
 - 🌟 Always eager to learn and adapt to new challenges.
 
 ## 🛠️ Technologies & Tools
- <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML5" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS3" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" alt="HTML5" width="40" height="40"/>
-- **JavaScript (ES6+)**: <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="40" height="40"/>
-- **Bootstrap**: <img src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="40" height="40"/>
-
-### Backend
-- **Node.js**: <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" width="40" height="40"/>
-- **Express.js**: <img src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" alt="Express.js" width="40" height="40"/>
-- **MongoDB**: <img src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" alt="MongoDB" width="40" height="40"/>
-- **SQL**: <img src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" alt="SQL" width="40" height="40"/>
-
-### Tools & Platforms
-- **Git & GitHub**: <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" alt="GitHub" width="40" height="40"/>
-- **Visual Studio Code**: <img src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="40" height="40"/>
-- **Postman**: <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-- **Docker**: <img src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="Docker" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" alt="Express.js" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" alt="MongoDB" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" alt="SQL" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" alt="GitHub" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="Docker" width="40" height="40"/>
 
 ## 🌱 What I'm Learning
 - **Advanced React Patterns**: Hooks, Context API, and performance optimization.
