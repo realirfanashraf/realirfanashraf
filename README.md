@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer specializing
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="Docker" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/sass.png" alt="SCSS" width="40" height="40"/>
   <img src="https://img.icons8.com/ios-filled/50/000000/jquery.png" alt="jQuery" width="40" height="40"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/ajax.png" alt="AJAX" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/8be26d91eb231fec0b8856359979ac09f27173fd/topics/ajax/ajax.png" alt="AJAX" width="40" height="40"/>
   <img src="https://redux.js.org/img/redux.svg" alt="Redux" width="40" height="40"/>
   <img src="https://redux-toolkit.js.org/img/redux-toolkit-logo.svg" alt="Redux Toolkit" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
