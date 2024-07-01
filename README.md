@@ -50,7 +50,20 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer specializing
 <img src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" alt="Terminal" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" width="40" height="40"/>
-<!--   <img src="" alt="" width="40" height="40"/> -->
+  <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg" alt="TailwindCss" width="40" height="40"/>
+   <img src="https://avatars.githubusercontent.com/u/109142?s=48&v=4" alt="" width="40" height="40"/>
+   <img src="https://webrtc.github.io/webrtc-org/assets/images/webrtc-logo-vert-retro-255x305.png" alt="WebRTC" width="40" height="40"/>
+   <img src="https://jwt.io/img/pic_logo.svg" alt="JWT" width="40" height="40"/>
+   <img src="https://www.nodemailer.com/nm_logo_200x136.png" alt="Nodemailer" width="40" height="40"/>
+   <img src="https://www.paypalobjects.com/webstatic/mktg/logo/pp_cc_mark_37x23.jpg" alt="Paypal" width="40" height="40"/>
+   <img src="https://avatars.githubusercontent.com/u/856813?s=48&v=4" alt="Stripe" width="40" height="40"/>
+   <img src="https://avatars.githubusercontent.com/u/10566080?s=48&v=4" alt="Socket.io" width="40" height="40"/>
+   <img src="https://avatars.githubusercontent.com/u/45120?s=48&v=4" alt="Mongo Atlas" width="40" height="40"/>
+   <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="Vscode" width="40" height="40"/>
+   <img src="https://avatars.githubusercontent.com/u/5155369?s=48&v=4" alt="Figma" width="40" height="40"/>
+   <img src="https://www.datensen.com/blog/wp-content/uploads/2022/03/moon-modeler-colored-logo.svg" alt="Moon-modeler" width="40" height="40"/>
+   <img src="https://icon.icepanel.io/Technology/svg/Jest.svg" alt="Jest" width="40" height="40"/>
+   <img src="https://avatars.githubusercontent.com/u/8770005?s=48&v=4" alt="Mocha" width="40" height="40"/>
 </div>
 
 
@@ -61,12 +74,6 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer specializing
 ## 🤝 Let's Connect
 - **Email**: [realirfanashraf@gmail.com](mailto:realirfanashraf@gmail.com)
 - **LinkedIn**: [https://www.linkedin.com/in/realirfanashraf/](#)
-
-## 😄 Pronouns
-He/Him
-
-## ⚡ Fun Fact
-When I'm not coding, you can find me exploring the latest tech trends or hiking in the beautiful landscapes around Kochi.
 
 ---
 
