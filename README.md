@@ -70,6 +70,9 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer specializing
 ## 🌱 What I'm Learning
 - **GraphQL**: Exploring new ways to fetch data.
 - **TypeScript**: Adding static types to JavaScript for better code quality.
+- **Kubernetes**: Managing containerized applications at scale.
+- **Docker**: Simplifying containerization and deployment.
+- **Next.js**: Enhancing React applications with server-side rendering and static site generation.
 
 ## 🤝 Let's Connect
 - **Email**: [realirfanashraf@gmail.com](mailto:realirfanashraf@gmail.com)
